@@ -4,9 +4,7 @@ Librería de tensores en C++ (hasta 3 dimensiones) para la Tarea #2 de
 Programación III.
 
 **Integrantes:**
-- (Nombre y apellido)
-- (Nombre y apellido)
-
+Omar Matias Cuba Solis
 ## Descripción
 
 La clase `Tensor` maneja tensores de 1, 2 o 3 dimensiones usando un arreglo
